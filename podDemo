@@ -1,1 +1,6 @@
 @Hello POD
+//This is POD Demo Transaction
+
+pod = new POD()["Foundation"].
+pod.addDataTypes["I", "S", "F"].
+pod.init().
